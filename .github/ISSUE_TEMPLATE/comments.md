@@ -1,7 +1,7 @@
 ---
 name: Comments
 about: Add your comments here if you'd like.
-title: "[Comments]"
+title: "[Title Your Comment Please]"
 labels: ''
 assignees: ''
 
