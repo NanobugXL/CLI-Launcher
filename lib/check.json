@@ -1,0 +1,12 @@
+// Lets start by checking the version 
+
+{
+  "product": "Testing 123",
+  "author": "NanobugXL",
+  "repoName": "CLI-Launcher",
+  "branchName": "Master",
+  "fileName": "version.json",
+  "version": "1.1.12",
+  "releaseDate": "04-21-2019",
+  "gitRepo": "https://raw.githubusercontent.com/{author}/{repoName}/{branchName}/{fileName}"
+}
